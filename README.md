@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## 👨‍💻 About Me
+I’m Rizwan Aman, a passionate programmer who loves solving challenging problems and building efficient solutions. I specialize in algorithms, optimization, and crafting clean, maintainable code. Always learning and exploring new technologies!
 <!--
 **rizwanamanTHEnoob/rizwanamanTHEnoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
